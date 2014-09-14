@@ -1,7 +1,10 @@
 Tip Calculator
 ========
+
 **Description**
+
 Uses the google image search api to return a list if searched images.
+
 **Features**
 
 - Various settings for tweaking a search (under hamburger)
